@@ -75,14 +75,6 @@ Isso garante que cada resposta seja fundamentada em informações reais contidas
 - [Pinecone](https://www.pinecone.io/) → banco de dados vetorial para busca semântica.  
 - **Python** ou **n8n** → orquestração do fluxo (dependendo da implementação).  
 
----
+## 📊 Visualização
+![Fluxograma do Assistente](chatBotAgent.png)
 
-## ✅ Resumindo
-
-Este projeto transforma uma coleção de documentos em um **assistente de IA confiável**, que:  
-- Consulta os arquivos cadastrados.  
-- Localiza trechos relevantes com Pinecone.  
-- Usa a **API da OpenAI** para redigir respostas mais claras e precisas.  
-- Garante que cada resposta esteja **baseada em informações reais e verificáveis**.  
-
----
